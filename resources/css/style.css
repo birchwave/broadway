@@ -4,10 +4,18 @@ body {
 
 #home {
   background-image: url('../images/the-flatiron-building.png');
+  text-align: center;
+  color: white
+}
+
+#home a {
+  font-size: 18px;
+  color: white;
 }
 
 h1 {
-  color: SeaGreen;
+  font-size: 70px;
+  font-weight: bold;
 }
 
 
