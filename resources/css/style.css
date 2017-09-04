@@ -1,7 +1,10 @@
-* {
+body {
   font-family: Helvetica, Arial, sans-serif;
 }
 
+#home {
+  background-image: url("resources/images/the-flatiron-building.png");
+}
 
 h1 {
   color: SeaGreen;
